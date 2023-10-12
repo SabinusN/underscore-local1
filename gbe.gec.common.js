@@ -7364,3 +7364,5 @@ const gec = (function (gec) {
     };
     return gec;
 }(gec || {}));
+
+module.exports = gec
